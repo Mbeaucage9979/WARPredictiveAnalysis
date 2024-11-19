@@ -21,3 +21,9 @@ Top 10 Players by Predicted WAR
 1. Player 1        8.500
 2. Player 2        7.978
 3. Player 3        7.320
+
+*** NOTE ***
+You bust install 'pybaseball' by running the following first
+
+#!pip install pybaseball
+#import pybaseball
