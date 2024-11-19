@@ -27,3 +27,7 @@ You bust install 'pybaseball' by running the following first
 
 #!pip install pybaseball
 #import pybaseball
+
+
+** Known Areas of Improvement ** 
+Currently, the code requries a minimum of 100 plate appearances for players to be considered in the pedictions. I am aware of the fact that this unfairly filters out pitchers.
