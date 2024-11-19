@@ -30,4 +30,4 @@ You bust install 'pybaseball' by running the following first
 
 
 ** Known Areas of Improvement ** 
-Currently, the code requries a minimum of 100 plate appearances for players to be considered in the pedictions. I am aware of the fact that this unfairly filters out pitchers.
+Currently, the code requries a minimum of 100 plate appearances for players to be considered in the pedictions. I am aware of the fact that this unfairly filters out pitchers. Therefore, this code should be considered to only predict the WAR of positional players.
